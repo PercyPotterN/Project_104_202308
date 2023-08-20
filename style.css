@@ -1,0 +1,29 @@
+body   {
+background-color: rgb(255, 0, 0);
+}
+
+.items  {
+    color: aliceblue;
+}
+
+#capture    {
+    background-color: rgb(255, 174, 0);
+    width: 140px;
+    height: 50px;
+    font-size: medium;
+}
+
+#id {
+    background-color: rgb(255, 174, 0);
+    width: 140px;
+    height: 50px;
+    font-size: medium;
+}
+
+#title  {
+    font-family: 'Are You Serious', cursive;
+font-family: 'Bruno Ace SC', cursive;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Preahvihear', sans-serif;
+transform: rotate(349deg);
+}
